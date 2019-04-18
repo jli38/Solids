@@ -10,7 +10,7 @@ torus
 torus
 -25 50 0 5 35
 torus
--75 0 0 5 35
+-75 50 0 5 35
 display
 save
 test.png
