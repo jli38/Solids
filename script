@@ -4,13 +4,13 @@ move
 rotate
 x 90
 torus
-120 275 0 5 25
+120 290 0 15 45
 torus
-40 275 0 5 25
+40 290 0 15 45
 torus
--40 275 0 5 25
+-40 290 0 15 45
 torus
--120 275 0 5 25
+-120 290 0 15 45
 display
 save
 test.png
