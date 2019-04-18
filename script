@@ -4,9 +4,9 @@ move
 rotate
 x 90
 torus
-200 50 0 25 30
+200 50 0 10 30
 torus
-125 50 0 25 30
+125 50 0 10 30
 torus
 50 50 0 25 30
 torus
