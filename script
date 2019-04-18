@@ -4,13 +4,13 @@ move
 rotate
 x 90
 torus
-125 300 100 10 50
+125 300 0 15 50
 torus
-50 300 0 10 50
+50 300 0 15 50
 torus
--50 300 0 10 50
+-50 300 0 15 50
 torus
--125 300 0 10 50
+-125 300 0 15 50
 display
 save
 test.png
@@ -134,4 +134,5 @@ box
 display
 save
 robot.png
+
 */
