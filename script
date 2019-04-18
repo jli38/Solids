@@ -1,3 +1,23 @@
+push
+move
+250 230 0
+rotate
+x 90
+torus
+0 10 0 5 10
+torus
+10 10 0 5 10
+torus
+-10 10 0 5 10
+torus
+-5 0 0 5 10
+torus
+5 0 0 5 10
+display
+save
+test.png
+
+/*
 #test box mesh
 push
 move
@@ -116,3 +136,4 @@ box
 display
 save
 robot.png
+*/
